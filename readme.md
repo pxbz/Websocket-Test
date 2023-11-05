@@ -1,1 +1,1 @@
-learning web sockets for website chat system
+learning to use web sockets for website chat system
